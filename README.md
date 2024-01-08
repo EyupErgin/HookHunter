@@ -11,7 +11,7 @@ The aim of the project is to identify the domain names that can be used in phish
 
 ## Process of the Project:
 The process of the project will include 4 different algorithms and similarity analysis as the main logic.
-In this process, Fuzzy will be used for similarity analysis, Hypenation for character substitution, Homoglopht for hyphenation and TLD algorithm for TLD based analysis.
+In this process, Fuzzy will be used for similarity analysis, Hypenation for character substitution, homoglyph for hyphenation and TLD algorithm for TLD based analysis.
 
 ## HookHunter's To-Do:
 - [x] Fuzzy Hash based similarity algorithm will be developed for similarity analysis,
