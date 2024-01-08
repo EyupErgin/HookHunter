@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://ergin.dev"><img src="https://raw.githubusercontent.com/EyupErgin/HookHunter/banner.png" width="400px" alt="HookHunter"></a>
+  <a href="https://ergin.dev"><img src="https://raw.githubusercontent.com/EyupErgin/HookHunter/782919a0b6f497ae629b2a0e91ead38d03daef0e/image/banner.png" width="400px" alt="HookHunter"></a>
 </p>
 <h4 align="center">Algorithm Based Phishing and Impersonating Domain Detection Tool <br> Version: v1.0</h4>
 
