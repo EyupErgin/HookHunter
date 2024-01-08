@@ -1,0 +1,6 @@
+requests
+dnspython
+tqdm
+fuzzywuzzy
+tabulate
+whois
